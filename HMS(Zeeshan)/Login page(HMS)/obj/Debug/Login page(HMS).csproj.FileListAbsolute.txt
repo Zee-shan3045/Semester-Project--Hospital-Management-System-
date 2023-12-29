@@ -1,0 +1,79 @@
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).exe.config
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).exe
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).pdb
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Properties.Resources.resources
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).exe
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).pdb
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Login.resources
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\bin\Debug\Guna.UI.dll
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CopyComplete
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Signup.resources
+C:\Users\HP\source\repos\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Form2.resources
+D:\Hospital\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).exe.config
+D:\Hospital\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).exe
+D:\Hospital\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).pdb
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.AssemblyReference.cache
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Form2.resources
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Login.resources
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Properties.Resources.resources
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Signup.resources
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.GenerateResource.cache
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CoreCompileInputs.cache
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CopyComplete
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).exe
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).pdb
+D:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.HomePage.resources
+F:\Hospital\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).exe.config
+F:\Hospital\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).exe
+F:\Hospital\Login page(HMS)\Login page(HMS)\bin\Debug\Login page(HMS).pdb
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.AssemblyReference.cache
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Form2.resources
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.HomePage.resources
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Login.resources
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Properties.Resources.resources
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login_page_HMS_.Signup.resources
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.GenerateResource.cache
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CoreCompileInputs.cache
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CopyComplete
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).exe
+F:\Hospital\Login page(HMS)\Login page(HMS)\obj\Debug\Login page(HMS).pdb
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Login page(HMS).exe.config
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Login page(HMS).exe
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Login page(HMS).pdb
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Guna.UI.dll
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Form2.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.HomePage.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Login.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Patient.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Signup.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).exe
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).pdb
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Doctor.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Labotory.resources
+C:\Users\HP\OneDrive\Desktop\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Receptionist.resources
+F:\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Login page(HMS).exe.config
+F:\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Login page(HMS).exe
+F:\HMS(Zeeshan)\Login page(HMS)\bin\Debug\Login page(HMS).pdb
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.AssemblyReference.cache
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Doctor.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Form2.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.HomePage.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Labotory.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Login.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Patient.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Properties.Resources.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Receptionist.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login_page_HMS_.Signup.resources
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.GenerateResource.cache
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CoreCompileInputs.cache
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).csproj.CopyComplete
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).exe
+F:\HMS(Zeeshan)\Login page(HMS)\obj\Debug\Login page(HMS).pdb
